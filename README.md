@@ -1,0 +1,2 @@
+# Url-Saver-Extension
+This is an Url Saver Chrome Extension. No need to copy and paste the url/link anywhere just click on the "SAVE TAB" button it will automatically fetch the link from the browser and store it in the device itself. If you No longer need the url just double click on "DELETE ALL" button to delete all the urls. Double click pattern is only used on "DELETE ALL" button, for making it not easy to delete. Also haves a "SAVE INPUT" button for saving important topics
